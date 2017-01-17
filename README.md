@@ -11,6 +11,9 @@ In our dataset (2012), New Yorkers were stopped by the police 532,911 times:
 ## *Dataset:*
 http://www.nyc.gov/html/nypd/downloads/zip/analysis_and_planning/2012_sqf_csv.zip
 
+## *Dataset Description:*
+http://www.nyc.gov/html/nypd/downloads/zip/analysis_and_planning/2012_sqf.zip
+
 In order to understand the information captured in the csv file, we took a look at the specs document that helps us identify the various features recorded in our dataset.
 Our goal is to build a classification algorithm that can predict arrests efficiently so that they can be implemented on other states or other country's law enforcement databases. This will not only help reduce the number of inmates in prisons and save tax payer's money but also decrease the public frustration rate/anger and improve's the law enforcement's credibility.
 We found that people of African or Hispanic descent were stopped more frequently than whites. This is due to the fact that humans make decisions based on their own experiences with people from different races, ages, shapes, and other characterisitics. We've also tried to find a correlation between the arrests made, age, and race.
