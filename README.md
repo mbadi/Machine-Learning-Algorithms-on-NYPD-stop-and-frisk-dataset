@@ -7,6 +7,7 @@ In our dataset (2012), New Yorkers were stopped by the police 532,911 times:
 - 284,229 were black (55 percent).
 - 165,140 were Latino (32 percent).
 - 50,366 were white (10 percent).
+
 ## *Dataset:*
 http://www.nyc.gov/html/nypd/downloads/zip/analysis_and_planning/2012_sqf_csv.zip
 
