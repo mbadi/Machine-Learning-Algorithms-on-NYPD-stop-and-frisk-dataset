@@ -7,6 +7,8 @@ In our dataset (2012), New Yorkers were stopped by the police 532,911 times:
 - 284,229 were black (55 percent).
 - 165,140 were Latino (32 percent).
 - 50,366 were white (10 percent).
+## *Dataset:*
+http://www.nyc.gov/html/nypd/downloads/zip/analysis_and_planning/2012_sqf_csv.zip
 
 In order to understand the information captured in the csv file, we took a look at the specs document that helps us identify the various features recorded in our dataset.
 Our goal is to build a classification algorithm that can predict arrests efficiently so that they can be implemented on other states or other country's law enforcement databases. This will not only help reduce the number of inmates in prisons and save tax payer's money but also decrease the public frustration rate/anger and improve's the law enforcement's credibility.
