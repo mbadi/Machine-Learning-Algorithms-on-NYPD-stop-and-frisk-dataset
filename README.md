@@ -1,7 +1,8 @@
 ## Deep Neural Networks on NYPD's  Stop-and-Frisk 
+**Team:  Mahmoud Badi, Aman Preet Singh, and Rahul Khandalkar, Southern Methodist University 
 
 **Goal and Business/Use Case**:  
-We have utilized NYPDs Stop and Frisk dataset for our exercise.
+We have utilized NYPDs Stop and Frisk dataset for our exercise and tried to implement different DNN architectures to predict arrests. 
 In our dataset (2012), New Yorkers were stopped by the police 532,911 times:
 - 473,644 were totally innocent (89 percent).
 - 284,229 were black (55 percent).
